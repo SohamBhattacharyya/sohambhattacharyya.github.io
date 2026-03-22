@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects:  PyTorch, MATLAB,  C, Linux, Simulink,  R, SQL, VHDL, Python
-percentage:    75,     65, 70,    70,       70, 40,  60,   35,     85
+aspects:  PyTorch, LLM, Context, C, Linux, Azure, , SQL, Multimodal, Agents, Python
+percentage:    75,  65,      65,70,    70,    60, ,  60,         75,     75,     85
