@@ -10,7 +10,7 @@ Last semester, I had to take the course of Digital Signal Processing as a part o
 
 The idea is to take an application-oriented practical approach towards the beautiful subject of DSP, that would help new learners taste its power, benefits before the theoretical knowledge takes over to complete it. Although, for gaining deep insights I do recommend thorough studying of textbooks, for which I would suggest the one authored by Professor John G. Proakis and Professor Dimitri G. Manokalis and the one by Sir Alan V. Oppenheim, which you can buy on Amazon from [here][book1] and [here][book2].
 
-Another purpose of this series of blog posts will be to function as an online reference for myself and other professionals in this field. I have tried to put together MATLAB algorithms of most of the topics covered in the standard DSP course at MIT OpenCourseWare. That being the reason, to keep the blog post from being extremely long and to keep you interested, I have split it into three segments along with a [reference blog post][part4], that indexes and describes shortly the set of functions I have used in this series and further readings and references.
+Another purpose of this series of blog posts will be to function as an online reference for myself and other professionals in this field. I have tried to put together MATLAB algorithms of most of the topics covered in the standard DSP course at MIT OpenCourseWare. That being the reason, to keep the blog post from being extremely long and to keep you interested, I have fragmented it into three pieces along with a [reference blog post][part4], that indexes and describes shortly the set of functions I have used in this series and further readings and references.
 
 
 

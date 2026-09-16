@@ -98,7 +98,7 @@ image:
 ###### Markdown:
 * [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf){:target="_blank"}
 
-###### Other places to swear by:
+###### Other places to see by:
 * [https://learnxinyminutes.com/](https://learnxinyminutes.com/){:target="_blank"}
 * [http://www.cheat-sheets.org/](http://www.cheat-sheets.org/){:target="_blank"}
 * [https://www.printfriendly.com/](https://www.printfriendly.com/){:target="_blank"}
